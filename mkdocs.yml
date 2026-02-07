@@ -1,0 +1,15 @@
+site_name: Чак-Чат
+site_author: tro
+site_url: https://your-site.com
+
+theme:
+    name: simple-blog
+    font:
+      text: Roboto
+
+nav:
+  - Главная: index.md
+  - Контакты: contacts.md
+
+extra_css:
+  - stylesheets/extra.css
