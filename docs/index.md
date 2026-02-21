@@ -3,20 +3,20 @@
 
 ---
 
-## 📋 Краткая информация
-- **Должность:** Middle Python Developer
-- **Опыт:** 3+ года
-- **Локация:** Москва / Удаленно
-- **Готовность:** Рассматриваю предложения
+## 📋 Quick Info
+- **Job Title:** Middle Python Developer
+- **Experience:** 3+ years
+- **Location:** Moscow / Remote
+- **Availability:** Considering offers
 
-## 🛠 Технические навыки
+## 🛠 Technical skills
 
 skills = {
 
-    "Языkи": ["Python", "JavaScript", "SQL"],
-    "Фреймворки": ["Django", "FastAPI", "Flask"],
-    "Базы данных": ["PostgreSQL", "Redis", "MongoDB"],
-    "Инструменты": ["Docker", "Git", "AWS", "CI/CD"]
+    "Languages": ["Python", "JavaScript", "SQL"],
+    "Frameworks": ["Django", "FastAPI", "Flask"],
+    "Databases": ["PostgreSQL", "Redis", "MongoDB"],
+    "Tools": ["Docker", "Git", "AWS", "CI/CD"]
 }
 
-[Контакты](contacts.md)
+[Contacts](contacts.md)

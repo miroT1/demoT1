@@ -1,16 +1,16 @@
-# 📞 Контакты
+# 📞 Contacts
 
-## Связь со мной
+## Contact me
 - **Email:** email@example.com
 - **Telegram:** @username
 - **LinkedIn:** [linkedin.com/in/username](https://linkedin.com)
 - **GitHub:** [github.com/username](https://github.com)
 
-## 📍 Предпочтения
-- Удаленная работа
-- Гибкий график
-- Полная занятость
+## 📍 Preferences
+- Remote work
+- Flexible schedule
+- Full-time
 
 ---
 
-[← На главную](index.md)
+[← Home](index.md)
