@@ -6,6 +6,8 @@ theme:
     name: simple-blog
     font:
       text: Roboto
+      name: gitbook
+
 
 nav:
   - Главная: index.md
