@@ -5,8 +5,8 @@ site_url: https://your-site.com
 theme:
     name: simple-blog
     font:
-      Roboto
-
+      text: Roboto
+    theme: mkdocs-simple-blog
 nav:
   - Главная: index.md
   - Контакты: contacts.md
