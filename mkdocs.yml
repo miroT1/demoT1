@@ -7,7 +7,7 @@ theme:
     font:
       text: Roboto
     theme:
-      name:bootstrap
+      name: bootstrap
 nav:
   - Главная: index.md
   - Контакты: contacts.md
