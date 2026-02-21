@@ -4,8 +4,6 @@ site_url: https://your-site.com
 
 theme:
     name: simple-blog
-    font:
-      text: Roboto
     theme:
       name: bootstrap
 nav:
