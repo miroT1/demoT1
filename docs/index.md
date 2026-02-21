@@ -13,7 +13,7 @@
 
 skills = {
 
-    "Языки": ["Python", "JavaScript", "SQL"],
+    "Языkи": ["Python", "JavaScript", "SQL"],
     "Фреймворки": ["Django", "FastAPI", "Flask"],
     "Базы данных": ["PostgreSQL", "Redis", "MongoDB"],
     "Инструменты": ["Docker", "Git", "AWS", "CI/CD"]
