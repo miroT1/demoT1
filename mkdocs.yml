@@ -4,6 +4,7 @@ site_url: https://your-site.com
 
 theme:
     name: simple-blog
+#bootstrap
 
 nav:
   - Главная: index.md
