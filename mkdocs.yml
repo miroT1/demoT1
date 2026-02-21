@@ -6,6 +6,8 @@ theme:
     name: simple-blog
     font:
       text: Roboto
+    theme:
+      name:bootstrap
 nav:
   - Главная: index.md
   - Контакты: contacts.md
