@@ -18,3 +18,5 @@ skills = {
     "Базы данных": ["PostgreSQL", "Redis", "MongoDB"],
     "Инструменты": ["Docker", "Git", "AWS", "CI/CD"]
 }
+
+[Контакты](contacts.md)
