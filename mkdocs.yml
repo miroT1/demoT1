@@ -4,8 +4,7 @@ site_url: https://your-site.com
 
 theme:
     name: simple-blog
-    theme:
-      name: bootstrap
+
 nav:
   - Главная: index.md
   - Контакты: contacts.md
